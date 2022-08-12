@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">YoutubeLikeLayout</string>
-    <string name="youtube">YouTube</string>
-    <string name="email_card_transition_name">email_card_%1$s</string>
-    <string name="email_card_detail_transition_name">email_card_detail</string>
-</resources>
